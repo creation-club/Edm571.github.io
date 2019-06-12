@@ -2,6 +2,9 @@
 Project Website
 
 Hello, I am glad to meet you. 
-If you would like to, you 
-can become a contributor.
+My favorite types of coding 
+languages are JavaScript,
+HTML, and CSS. If you are
+the same, then you can 
+always become a contributor.
 
