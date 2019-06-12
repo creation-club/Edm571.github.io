@@ -1,8 +1,7 @@
 # Edm571.github.io
-Project Website<br>
+Project Website
 
+Hello, I am glad to meet you. 
+If you would like to, you 
+can become a contributor.
 
-<p> Which is better, Roblox or Minecraft?<br>
-    If you would like to be in this debate/vote,<br>
-    Make a statement and send it here.<p>
-  
